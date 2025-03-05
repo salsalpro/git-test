@@ -1,3 +1,3 @@
 
 
-const message = 'hi this is the first message'
+const diffTest = 'this is the difrent'
