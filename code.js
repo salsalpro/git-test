@@ -8,3 +8,7 @@ const needFunc = () => {
 }
 
 needFunc()
+
+
+const messageCode = 'meesage in code.js file'
+const mesgaeCode2 = 'meesage in code.js file secend message'
